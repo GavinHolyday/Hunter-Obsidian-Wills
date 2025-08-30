@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "1840c836dace9f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9191c03770b314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2116ef71f883311f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/NPC Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acfb9eb4da408d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8408954cc8799e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6768c73cedeece9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a343765aaaca5d97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "985daed4ed354688",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5279ea7bce53496b",
+    "type": "split",
+    "children": [
+      {
+        "id": "049fc34ea35691da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9eb921a192f486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaigns/Blood on the Strand/Sessions/Session 01 - Arrival.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 01 - Arrival"
+            }
+          },
+          {
+            "id": "22888bec9771e3ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaigns/Blood on the Strand/Sessions/Session 01 - Arrival.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 01 - Arrival"
+            }
+          },
+          {
+            "id": "8056a02f5514ab12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaigns/Blood on the Strand/Sessions/Session 01 - Arrival.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 01 - Arrival"
+            }
+          },
+          {
+            "id": "618140ce97576d53",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_5a3b880919db",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 12,
+                    "month": 7,
+                    "year": 2025
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 12,
+                    "month": 7,
+                    "year": 2025
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_ca6ae879bb09",
+                "child": "ID_d97a9a19abf9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e26c5bfa09ff96ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "00713c2a0f1ec1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10eda0ba52d872f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_5a3b880919db",
+                "id": "ID_d97a9a19abf9",
+                "parent": "ID_ca6ae879bb09"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "2116ef71f883311f",
+  "lastOpenFiles": [
+    "Templates/Lore Template.md",
+    "Templates/Case File Template.md",
+    "Campaigns/Lindale/Lore/The Chain.md",
+    "Campaigns/Lindale/Field Guide/Weapons & Tactics.md",
+    "Campaigns/Lindale/Field Guide/Signs & Wards.md",
+    "Campaigns/Lindale/Field Guide/Field Guide.md",
+    "Campaigns/Lindale/Field Guide/Procedures & Checklists.md",
+    "Campaigns/Lindale/Case Files/CASE-250811-01 - Disappearances Echo.md",
+    "Campaigns/Lindale/Relationships.canvas",
+    "Untitled.md",
+    "Campaigns/Lindale/Campaign Dataview Examples.md",
+    "Campaigns/Lindale/Sessions/Session 01 - Arrival.md",
+    "README.md",
+    "Campaigns/Lindale/Entities/NPCs/The Preacher.md",
+    "Campaigns/Lindale/Field Guide/Bestiary.md",
+    "Campaigns/Lindale/Field Guide/Contacts & Safehouses.md",
+    "Campaigns/Lindale/Entities/Characters/Garret Coledridge.md",
+    "Campaigns/Lindale/Entities/NPCs/Vincent 'Uncle Vin' Morello.md",
+    "Case Files.md",
+    "Case Files 1.md",
+    "Templates/Journal Entry Template.md",
+    "Templates/Character Template.md"
+  ]
+}

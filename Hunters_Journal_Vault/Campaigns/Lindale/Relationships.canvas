@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"morello","type":"file","file":"Campaigns/Lindale/Entities/NPCs/Vincent 'Uncle Vin' Morello.md","x":-20,"y":200,"width":360,"height":200},
+		{"id":"chain","type":"file","file":"Campaigns/Lindale/Lore/The Chain.md","x":-20,"y":580,"width":360,"height":200},
+		{"id":"preacher","type":"file","file":"Campaigns/Lindale/Entities/NPCs/The Preacher.md","x":740,"y":580,"width":360,"height":200},
+		{"id":"garret","type":"file","file":"Campaigns/Lindale/Entities/Characters/Garret Coledridge.md","x":560,"y":-80,"width":360,"height":200}
+	],
+	"edges":[
+		{"id":"e2","fromNode":"garret","fromSide":"right","toNode":"preacher","toSide":"left","label":"Witnessed atrocity"},
+		{"id":"e4","fromNode":"preacher","fromSide":"left","toNode":"chain","toSide":"right","label":"Owed a debt?"},
+		{"id":"e1","fromNode":"garret","fromSide":"right","toNode":"morello","toSide":"left","label":"Mentor (missing)"},
+		{"id":"e3","fromNode":"morello","fromSide":"bottom","toNode":"chain","toSide":"top","label":"Leader of"}
+	]
+}

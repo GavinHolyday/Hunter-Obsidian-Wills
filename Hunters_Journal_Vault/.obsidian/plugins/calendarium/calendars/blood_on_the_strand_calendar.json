@@ -1,0 +1,87 @@
+{
+  "name": "Blood on the Strand Calendar",
+  "id": "blood_on_the_strand_calendar",
+  "description": "Gregorian calendar for campaign session tracking",
+  "months": [
+    {
+      "name": "January",
+      "length": 31
+    },
+    {
+      "name": "February",
+      "length": 28,
+      "leapLength": 29
+    },
+    {
+      "name": "March",
+      "length": 31
+    },
+    {
+      "name": "April",
+      "length": 30
+    },
+    {
+      "name": "May",
+      "length": 31
+    },
+    {
+      "name": "June",
+      "length": 30
+    },
+    {
+      "name": "July",
+      "length": 31
+    },
+    {
+      "name": "August",
+      "length": 31
+    },
+    {
+      "name": "September",
+      "length": 30
+    },
+    {
+      "name": "October",
+      "length": 31
+    },
+    {
+      "name": "November",
+      "length": 30
+    },
+    {
+      "name": "December",
+      "length": 31
+    }
+  ],
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "leapYear": {
+    "rule": "gregorian",
+    "customMod": 0
+  },
+  "firstWeekDay": 0,
+  "time": {
+    "hoursInDay": 24,
+    "minutesInHour": 60,
+    "secondsInMinute": 60
+  },
+  "year": 2025,
+  "events": [
+    {
+      "name": "Session 1 \u2014 Arrival",
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 11
+      },
+      "note": "Campaigns/Blood on the Strand/Sessions/Session 01 - Arrival.md"
+    }
+  ]
+}
